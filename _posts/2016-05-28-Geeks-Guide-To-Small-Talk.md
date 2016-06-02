@@ -13,7 +13,7 @@ header-img: "img/posts/3d-dress-3.jpg"
   In the last decade these tools were developed and changed a lot because of new technologies which made this process get faster and more dynamic, 
   and made possible to the drawing and model be made at the same time through a digital model. Revit is an example of a new "tool" for architecture.
   
-  ![Revit]"imag/post/Screenshot.jpg"
+  ![Revit](/blob/master/img/posts/Screenshot.jpg)
   
   Even though a digital model is really usefull, it can't substitute a phisical model. So, how to quickly make a precise phisical model 
   directly through digital drawings? 3D Printers can print achitectural models with a high level of precision, detail and complex shapes,
