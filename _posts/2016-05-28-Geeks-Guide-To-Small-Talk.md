@@ -4,7 +4,7 @@ title: "Digital Fabrication, a Design Revolution"
 subtitle: "No I do not mean the programming language. I mean the social ritual hackers are stereotypically bad at."
 date: 2016-05-31 05:20:26
 author: "Douglas Lopes"
-header-img: "img/posts/3d-dress-3.jpg"
+header-img: "/img/posts/3d-dress-3.jpg"
 comments: true
 tags: [ CodeMonkey, Life@IITK ]
 ---
@@ -15,13 +15,13 @@ tags: [ CodeMonkey, Life@IITK ]
   In the last decade these tools were developed and changed a lot because of new technologies which made this process get faster and more dynamic, 
   and made possible to the drawing and model be made at the same time through a digital model. Revit is an example of a new "tool" for architecture.
   
-  ![Revit](imag/post/Screenshot.jpg)
+  ![Revit](/imag/post/Screenshot.jpg)
   
   Even though a digital model is really usefull, it can't substitute a phisical model. So, how to quickly make a precise phisical model 
   directly through digital drawings? 3D Printers can print achitectural models with a high level of precision, detail and complex shapes,
   which would take a long time and a lot of patience to be hand made in a lower quality.
 
- ![LGM Manori Model](imag/post/Manori.jpg)
+ ![LGM Manori Model](/imag/post/Manori.jpg)
 
   But now the question is: How to make phisical printed models be part of the concept of the project and not just the printed version
   of a digital model? How to make this part of design process as a whole? There is a lot of solutions for that, 3D printers can be modified
