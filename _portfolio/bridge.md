@@ -1,9 +1,11 @@
 ---
-anchor: toh
-title: Tower of Hanoi
-image: img/portfolio/toh.png
-description: Tower of hanoi is a classic puzzle game of moving tiles from one tower to another, without placing larger tile on smaller tile. I have used AndEngine , which is a 2D android game engine to create this game.
-team: Single
-date: February 2015
-category: Android
+anchor: Water Confluence Observatory
+title: Water Confluence Observatory
+image: img/portfolio/ponte.png
+description: Junior / Exchange Student - Washington University in Saint Louis
+Saint Louis, USA - 2015
+Individual Project
+AutoCAD, Rhino, Sketchup and Photoshop
+Prof. Anna Ives
+category: Architecture
 ---
