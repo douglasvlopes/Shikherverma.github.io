@@ -7,8 +7,7 @@ São Paulo, Brazil - 2015
 Individual Project
 Revit, Sketchup and Photoshop
 Prof. Dr. Eduardo Sampaio Nardelli
-
-Link for full portfolio -> "https://issuu.com/douglasvaleirolopes/docs/portfolio_online?e=23661063/33524900"
+Link for full portfolio -> "issuu.com/douglasvaleirolopes/docs/portfolio_online?e=23661063/33524900"
 
 category: Architecture
 ---
