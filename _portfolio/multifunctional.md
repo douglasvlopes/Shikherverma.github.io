@@ -8,7 +8,7 @@ Individual Project
 Revit, Sketchup and Photoshop
 Prof. Dr. Eduardo Sampaio Nardelli
 
-Click here to see the full portfolio -> https://issuu.com/douglasvaleirolopes/docs/portfolio_online?e=23661063/33524900
+Click here to see the full portfolio -> "https://issuu.com/douglasvaleirolopes/docs/portfolio_online?e=23661063/33524900"
 date: June 2015
 category: Architecture
 ---
