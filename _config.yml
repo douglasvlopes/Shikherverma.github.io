@@ -1,16 +1,16 @@
 # Site settings
 title: Douglas
-index_title: Douglas Lopes # same as title in index.html file, so that custom description can be set in page.html layout.
-blog_title: Douglas Lopes Architecture
+index_title: Douglas Lopes
+blog_title: Douglas Lopes
 header-img: img/home-bg.jpg
 email: douglaslopes@live.com
-copyright_name: Douglas Lopes
-description: ""A vida é um sopro" - Oscar Niemeyer"
+copyright_name: ShikherVerma
+description: "A vida é um sopro Oscar Niemeyer"
 baseurl: "" #base url is for when the site is not at the root but at some subdirectory.
 url: http://douglasvlopes.github.io/ #only used in disque comments for now
 disqus_url: douglasvlopes.github.io/ # disque comments are broken if you send http:// along with url
 github_username:  douglasvlopes
-facebook_username:  https://www.facebook.com/douglas.lopes.3154?ref=bookmarks
+facebook_username:
 email_username:  douglaslopes@live.com
 collections:
   - portfolio
