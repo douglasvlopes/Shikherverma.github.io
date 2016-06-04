@@ -2,7 +2,7 @@
 anchor: wco
 title: Water Confluence Observatory
 image: img/portfolio/ponte.png
-description: Junior  Exchange Student at Washington University in Saint Louis. Find my portfolio <a href="https://github.com/ShikherVerma/shikherverma.github.io">here</a>.
+description: Junior  Exchange Student at Washington University in Saint Louis. Find my portfolio <a href="issuu.com/douglasvaleirolopes/docs/portfolio_online?e=23661063/33524900">here</a>.
 team: Individual
 date: November 2015
 category: Architecture
