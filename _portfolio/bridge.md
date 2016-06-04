@@ -2,11 +2,7 @@
 anchor: wco
 title: Water Confluence Observatory
 image: img/portfolio/ponte.png
-description: Junior  Exchange Student at Washington University in Saint Louis
-Saint Louis, USA  2015
-Individual Project
-AutoCAD, Rhino, Sketchup and Photoshop
-Prof. Anna Ives
+description: Junior  Exchange Student at Washington University in Saint Louis. Find my portfolio <a href="https://github.com/ShikherVerma/shikherverma.github.io">here</a>.
 team: Individual
 date: June 2015
 category: Architecture
