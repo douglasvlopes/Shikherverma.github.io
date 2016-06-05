@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digital Fabrication, a Design Revolution"
-subtitle: "No I do not mean the programming language. I mean the social ritual hackers are stereotypically bad at."
+subtitle: "The possibilities for the use of this technology."
 date: 2016-05-31 05:20:26
 author: "Douglas Lopes"
 header-img: "img/posts/3d-dress-3.jpg"
@@ -10,14 +10,11 @@ header-img: "img/posts/3d-dress-3.jpg"
   Architects always needed a design process to sucessfully get to the expected final result and as part of this process they always 
   had two main tools: drawings and models. Some years ago an Architect would choose to begin a project with a drawing or a model,
   and probably would alternate between these tools during this design process, this decision is no longer needed.
-  In the last decade these tools were developed and changed a lot because of new technologies which made this process get faster and more dynamic, 
-  and made possible to the drawing and model be made at the same time through a digital model. Revit is an example of a new "tool" for architecture.
+  In the last decade these tools were developed and changed a lot because of new technologies which made this process get faster and more dynamic, and made possible to the drawing and model be made at the same time through a digital model. Revit is an example of a new "tool" for architecture.
   
   ![Screenshot](../img/posts/Screenshot.jpg)
   
-  Even though a digital model is really usefull, it can't substitute a phisical model. So, how to quickly make a precise phisical model 
-  directly through digital drawings? 3D Printers can print achitectural models with a high level of precision, detail and complex shapes,
-  which would take a long time and a lot of patience to be hand made in a lower quality.
+  Even though a digital model is really usefull, it can't substitute a phisical model. So, how to quickly make a precise phisical model directly through digital drawings? 3D Printers can print achitectural models with a high level of precision, detail and complex shapes, which would take a long time and a lot of patience to be hand made in a lower quality.
 
  ![Manori](/img/posts/Manori.jpg)
 
