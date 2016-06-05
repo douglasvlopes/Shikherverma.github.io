@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anthil-Art"
+title: "Anthill Art"
 subtitle: ""
 date: 2016-06-04 05:20:26
 author: "Douglas Lopes"
