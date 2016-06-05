@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anthill Art"
-subtitle: ""
+subtitle: "Pouring Aluminum in Various Places"
 date: 2016-06-04 05:20:26
 author: "Douglas Lopes"
 header-img: "img/posts/ant7.jpg"
