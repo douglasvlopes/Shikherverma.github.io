@@ -18,8 +18,6 @@ header-img: "img/posts/1.jpg"
 
   Mapungubwe Interpretation Centre, Peter Rich Architects. Located on South Africa's northern border.
   The traditional timbrel vaulting, using locally made pressed soil cement tiles, allows the design to be materialized with minimal formwork and no steel reinforcement. "The complex is a collection of stone cladded vaults balancing on the sloped site, against the backdrop of Sandstone formations and mopane woodlands." ArchDaily
-  
- ![tres](/img/posts/5.jpg)
  
 ##MAA PROJECTS: AREAÑA
   
@@ -27,6 +25,9 @@ header-img: "img/posts/1.jpg"
   Research Studio: Digital Tectonics
   Studio Instructor: Marta Malé-Alemany, MAA Co-Director
   
-  ![tres](/img/posts/6.jpg)
+  ![tres](/img/posts/5.jpg)![tres](/img/posts/6.jpg)
+  
+
+  
   
   
