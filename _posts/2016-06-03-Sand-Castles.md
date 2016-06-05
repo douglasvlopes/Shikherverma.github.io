@@ -4,7 +4,7 @@ title: "Sand Castles"
 subtitle: "Matt Kaliner works"
 date: 2016-06-03 05:20:26
 author: "Douglas Lopes"
-header-img: "img/posts/sand.jpg"
+header-img: "img/posts/Sagrada%20Familia%2C%20Barcelona2.jpg"
 ---
 
   These amazing works of art were completed by Massachusetts resident Matt Kaliner.The process is simple, Kaliner says. “Grab a handful of very wet sand, and let it slide through your fingers. It naturally forms these nice Gothic towers. Let that dry a little, drip more sand, and repeat until you’re satisfied.”
