@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vernacular Architecture"
-subtitle: "The use of local materials."
+subtitle: "Using local materials."
 date: 2016-06-02 05:20:26
 author: "Douglas Lopes"
 header-img: "img/posts/1.jpg"
@@ -27,6 +27,6 @@ header-img: "img/posts/1.jpg"
   Research Studio: Digital Tectonics
   Studio Instructor: Marta Malé-Alemany, MAA Co-Director
   
-  ![tres](/img/posts/5.jpg)
+  ![tres](/img/posts/6.jpg)
   
   
