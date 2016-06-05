@@ -17,6 +17,6 @@ header-img: "img/posts/sand.jpg"
   
   “Over time, I started to use string, fishing line, anything I could find on the beach,”
   
-  ![areia3](../img/posts/areia3.jpg)
+  ![areia3](/img/posts/areia%203.jpg)
   
 (Architectural Digest)
