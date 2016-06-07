@@ -26,14 +26,14 @@ header-img: "img/posts/clay%205.jpg"
  
  Perforated panelling is also an eco-friendly cladding solution, with a variety of sunshade and screening systems that maximize daylight, deflect heat and save energy.
  
-###Panels
+### Panels
  ![p](/img/posts/painel.jpg)
 Source, click <a href="http://www.iaacblog.com/2011/05/08/maa-projects-areana/">here</a>
 
-##Muxarabis
+### Muxarabis
  ![m](/img/posts/muxarabis.jpg)
  
-##Cobogós
+### Cobogós
  ![c](/img/posts/cobogó.jpg)
  
  Casa B+B / Studio mk27+ Galeria Arquitetos Source, click <a href="http://www.archdaily.com.br/br/758696/casa-b-plus-b-studio-mk27">here</a>
