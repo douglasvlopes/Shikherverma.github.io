@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Clay Cracks Structures"
-subtitle: "Facade Covering Panels"
+subtitle: "Perforated Panels"
 date: 2016-06-05 04:23:26
 author: "Douglas Lopes"
 header-img: "img/posts/clay%205.jpg"
@@ -24,4 +24,16 @@ header-img: "img/posts/clay%205.jpg"
  
  ![quadro](/img/posts/clay%203.jpg)
  
+ Perforated panelling is also an eco-friendly cladding solution, with a variety of sunshade and screening systems that maximize daylight, deflect heat and save energy.
  
+ panels
+ ![p](/img/posts/clay%204.jpg)
+Source, click <a href="http://www.iaacblog.com/2011/05/08/maa-projects-areana/">here</a>
+
+ muxarabis
+ ![m](/img/posts/clay%204.jpg)
+ 
+ cobogós
+ ![c](/img/posts/clay%203.jpg)
+ 
+ Casa B+B / Studio mk27+ Galeria Arquitetos Source, click <a href="http://www.archdaily.com.br/br/758696/casa-b-plus-b-studio-mk27">here</a>
