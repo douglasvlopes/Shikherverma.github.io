@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Clay Cracks Structures"
-subtitle: "Perforated Panels"
+subtitle: "Perforated Facade Panels"
 date: 2016-06-05 04:23:26
 author: "Douglas Lopes"
 header-img: "img/posts/clay%205.jpg"
