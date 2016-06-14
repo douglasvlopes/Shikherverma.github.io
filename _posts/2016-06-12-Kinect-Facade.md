@@ -34,3 +34,6 @@ Kinetic facade
  ![kinect](/img/posts/kinect4.jpg)
  
 #### Source, click <a href="https://maniahamia.com/1192-2/inetic-facade/">here</a>
+
+#### Another good example, click <a href="https://www.youtube.com/watch?v=YOAlKLS2-g8">here</a>
+
