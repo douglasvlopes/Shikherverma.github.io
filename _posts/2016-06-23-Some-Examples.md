@@ -25,7 +25,7 @@ Marcio Kogan, Fernanda Neiva
 #### Source, click <a href="http://www.archdaily.com.br/br/758696/casa-b-plus-b-studio-mk27">here</a>
   
   
-  ### Mashrabiya
+### Mashrabiya
   
 I also found some references of dynamic use of these façade coverings:  l’Institut du Monde Arabe by Jean Nouvel is a good example of repeatedly using a kind of mechanical iris to create a facade that could open and close according to the weather based on traditional Arabic mashrabiya. Circles, squares, and octagonal shapes move, opening or closing in a fluid motion according to the exterior light so the interior spaces and the exterior appearance change at the same time. 
 
@@ -37,11 +37,11 @@ Jean Nouvel
 1987
 
   ![casa](/img/posts/img66666666666.jpg)
-  ![casa](/img/posts/img77777777777)
+  ![casa](/img/posts/img77777777777.jpg)
   
 #### Source, click <a href="http://www.archdaily.com/162101/ad-classics-institut-du-monde-arabe-jean-nouvel">here</a>
 
-  ### Perforated Panels
+### Perforated Panels
 
 
 Metal Wall & Roof Systems - Perforated Panels | Morin Corp.
